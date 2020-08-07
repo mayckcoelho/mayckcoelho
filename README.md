@@ -7,5 +7,5 @@ Eu sou um Engenheiro de Software apaixonado por construir aplicações performá
 Fique a vontade para entrar em contato comigo pra trocarmos uma idéia!
 
 ## Como me encontrar 📫:
-- Veja meus argigos no <a href="https://medium.com/@mayckcoelho">Medium</a> ✍🏾
+- Veja meus artigos no <a href="https://medium.com/@mayckcoelho">Medium</a> ✍🏾
 - Conheça meu perfil no <a href="https://www.linkedin.com/in/mayck-coelho/">LinkedIn</a> 💼
