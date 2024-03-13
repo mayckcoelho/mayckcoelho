@@ -10,7 +10,7 @@ Fique a vontade para entrar em contato comigo pra trocarmos conhecimento e exper
 const profile = {
   name: 'Mayck Coelho',
   role: 'Software Engineer',
-  goal: 'em constante aprendizado e preparado para compartilhar tudo que aprende
+  goal: 'em constante aprendizado e preparado para compartilhar tudo que aprende'
 }
 
 const { name, role, goal } = profile
