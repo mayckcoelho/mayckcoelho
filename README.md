@@ -24,7 +24,7 @@ console.log(`${name} is a ${role} ${goal}!`)
 ![](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![](https://img.shields.io/badge/Grafana-005571?style=for-the-badge&logo=grafana&logoColor=white)
+![](https://img.shields.io/badge/Grafana-E97337?style=for-the-badge&logo=grafana&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -36,6 +36,8 @@ console.log(`${name} is a ${role} ${goal}!`)
 ![](https://img.shields.io/badge/VS%20Code-147EFB?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![](https://img.shields.io/badge/OpenAI-005571?style=for-the-badge&logo=openai&logoColor=white)
 
+![Dino](https://github.com/mayckcoelho/mayckcoelho/blob/master/dino.gif)
+
 <p align="center">
   <a href="https://medium.com/@mayckcoelho">
     <img src="https://img.shields.io/badge/Medium-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
@@ -44,6 +46,3 @@ console.log(`${name} is a ${role} ${goal}!`)
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
-
-![Dino](https://github.com/mayckcoelho/mayckcoelho/blob/master/dino.gif)
-
