@@ -36,7 +36,9 @@ console.log(`${name} is a ${role} ${goal}!`)
 ![](https://img.shields.io/badge/VS%20Code-147EFB?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![](https://img.shields.io/badge/OpenAI-005571?style=for-the-badge&logo=openai&logoColor=white)
 
-![Dino](https://github.com/mayckcoelho/mayckcoelho/blob/master/dino.gif)
+<p align="center">
+   <img src="https://github.com/mayckcoelho/mayckcoelho/blob/master/dino.gif">
+</p>
 
 <p align="center">
   <a href="https://medium.com/@mayckcoelho">
