@@ -10,13 +10,13 @@ Fique a vontade para entrar em contato comigo pra trocarmos conhecimento e exper
 const profile = {
   name: 'Mayck Coelho',
   role: 'Software Engineer',
-  goal: 'em constante aprendizado e preparado para compartilhar tudo que aprende'
+  goal: 'constantly learning and prepared to share everything he learns'
 }
 
 const { name, role, goal } = profile
 
-console.log(`${name} é um ${role} ${goal}!`)
-// Mayck Coelho é um Software Engineer em constante aprendizado e preparado para compartilhar tudo que aprende!
+console.log(`${name} is a ${role} ${goal}!`)
+// Mayck Coelho is a Software Engineer constantly learning and prepared to share everything he learns!
 ```
 
 ![](https://img.shields.io/badge/Solution_Architect_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
