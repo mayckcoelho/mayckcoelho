@@ -9,7 +9,7 @@ Fique a vontade para entrar em contato comigo pra trocarmos conhecimento e exper
 ```javascript
 const profile = {
   name: 'Mayck Coelho',
-  role: 'Software Engineer',
+  role: 'Staff Software Engineer',
   goal: 'constantly learning and prepared to share everything he learns'
 }
 
