@@ -1,7 +1,7 @@
 ### Olá, eu sou Mayck Coelho <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">
 
 Eu sou um profissional atuando a mais de 10 anos na arquitetura e desenvolvimento de aplicações escaláveis, resilientes, performáticas e seguras.
-Experiência desde o design até o build, entrega e deploy na plataforma em cloud AWS especializada em API Management. Experimentações com uso de AI e busca por similaridade nas jornadas de exposição e consumo de APIs.
+Experiência desde o design até o build, entrega e deploy na plataforma em cloud AWS. Experimentações com uso de AI e busca por similaridade.
 Eu gosto muito de aprender, por isso aqui você vai encontrar vários projetos de meus estudos e coisas que gosto de construir e praticar.
 
 Fique a vontade para entrar em contato comigo pra trocarmos conhecimento e experiências!
