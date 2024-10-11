@@ -16,7 +16,7 @@ const profile = {
 const { name, role, goal } = profile
 
 console.log(`${name} is a ${role} ${goal}!`)
-// Mayck Coelho is a Software Engineer constantly learning and prepared to share everything he learns!
+// Mayck Coelho is a Staff Software Engineer constantly learning and prepared to share everything he learns!
 ```
 
 ![](https://img.shields.io/badge/Solution_Architect_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
